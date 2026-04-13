@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=lottie_export
+X-Python-2-Compatible=false
+Name=Lottie Export
+Comment=Export Krita animation frames as Lottie JSON
